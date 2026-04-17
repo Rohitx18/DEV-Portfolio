@@ -2,11 +2,11 @@
   "name": "rohit-portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://github.com/Rohitx18/DEV-Portfolio",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
